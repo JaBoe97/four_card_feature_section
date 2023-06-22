@@ -23,6 +23,7 @@ h1 {
 }
 h2 {
   font-weight: 600;
+  margin-bottom: -5px;
 }
 h1,
 h2 {
@@ -31,6 +32,7 @@ h2 {
 p {
   font-weight: 400;
   color: var(--grayish-blue);
+  line-height: 150%;
 }
 body > p {
   text-align: center;
@@ -40,8 +42,9 @@ div > p {
   font-size: 15px;
 }
 
-.svg_logo {
-  text-align: right;
+svg {
+  margin-top: 15px;
+  margin-left: 190px;
 }
 
 /* grid styling */
@@ -52,9 +55,9 @@ div > p {
 }
 .item {
   border-radius: 10px;
-  padding: 0 20px;
+  padding: 5px 25px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  height: 220px;
+  height: 210px;
 }
 .item1 {
   border-top: 4px solid var(--cyan);
