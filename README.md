@@ -23,7 +23,6 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
 ![Screenshot Desktop Version](<images/screenshots/Screenshot desktop.png>)
 
 ![Screenshot Mobile Version](<images/screenshots/Screenshot mobil.png>)

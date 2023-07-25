@@ -74,15 +74,6 @@ svg {
   border-top: 4px solid var(--blue);
 }
 
-/* attribution */
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
 @media (min-width: 750px) {
   .grid-container {
     min-width: 700px;
